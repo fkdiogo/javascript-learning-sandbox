@@ -19,4 +19,4 @@ Here I'll add all libraries/frameworks that I plan to learn and build.
 - [ ] Redux
 - [ ] RxJS
 
-[es6]: https://github.com/fkdiogo/javascript-learning-sandbox/blob/feature/pure-umpure-functions/pure-umpure-functions/README.md>
+[es6]: <https://github.com/fkdiogo/javascript-learning-sandbox/tree/feature/pure-umpure-functions/pure-umpure-functions>
