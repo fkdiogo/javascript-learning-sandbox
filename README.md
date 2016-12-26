@@ -3,7 +3,7 @@
 [![N|Solid](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj4_WSnFO671mzrV_xDb08uzmHiihCCg-_J-CP5yvmFL5TdbgfLQ)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj4_WSnFO671mzrV_xDb08uzmHiihCCg-_J-CP5yvmFL5TdbgfLQ)
 
 Here I'll add all libraries/frameworks that I plan to learn and build.
-- [ ] ES6/Babel
+- [ ] [ES6/Babel][es6]
 - [ ] Pure functions x Unpure functions
 - [ ] Closure
 - [ ] Promises
@@ -18,3 +18,5 @@ Here I'll add all libraries/frameworks that I plan to learn and build.
 - [ ] React
 - [ ] Redux
 - [ ] RxJS
+
+[es6]: <https://github.com/fkdiogo/javascript-learning-sandbox/tree/feature/pure-umpure-functions/pure-umpure-functions>
